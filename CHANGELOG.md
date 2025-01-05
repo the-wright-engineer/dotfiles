@@ -5,12 +5,33 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.2] - 2025-01-05
+## What's Changed
+
+### <!-- 0 -->🚀 Features
+
+- Add ghostty  by @wrightbradley - ([262e54b](262e54b6219e7ee5c20b984fbd3883e2c9c58213))
+- Add font-jetbrains-mono non-nerd font version  by @wrightbradley - ([17993b7](17993b71cb447d6d0db9bf2dfe94d4b04a13fc72))
+- Install crossover  by @wrightbradley - ([e2154c6](e2154c6eee99b6e3ccfa31b4ad461b2c802bfccb))
+
+### <!-- 1 -->🐛 Bug Fixes
+
+- Remove extra spaces defined for default shell  by @wrightbradley - ([34e941e](34e941e6e94f882536afe539d0a1f19cb6575141))
+
+### <!-- 5 -->🎨 Styling
+
+- Improve zsh config  by @wrightbradley - ([f26ad1f](f26ad1f53003a360289b3e211e9d5778fc084d75))
+
+
+**Full Changelog**: https://github.com/wrightbradley/dotfiles/compare/0.1.1...0.1.2
+
 ## [0.1.1] - 2024-12-21
 ## What's Changed
 
 ### <!-- 7 -->📚 Documentation
 
 - Release 0.1.0  by @github-actions[bot] - ([62ae6a9](62ae6a95260a0755664ca997014ed4ab4c6a7968))
+- Release 0.1.1 [skip ci]  by @github-actions[bot] - ([256c11b](256c11bb300eec927182ab9314d1c7740920fd55))
 
 ### <!-- 9 -->🤖 CI
 
